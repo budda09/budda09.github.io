@@ -6,4 +6,11 @@ h1 {
 color: pink;
 text-align: center;
 }
-
+a {
+ text-decoration: none;
+ color: midnightblue;
+}
+.assign img {
+ padding: 10px;
+ border: 2px solid midnightblue;
+}
