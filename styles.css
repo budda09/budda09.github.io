@@ -3,11 +3,11 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.assignments {
+.assign {
     display: flex;
     flex-wrap: wrap;
 }
-.assignment {
+.assign {
     width: 20%;
     padding: 10px;
     margin: 10px;
@@ -17,7 +17,7 @@ body {
     box-shadow: 8px 8px #1b4f72;
 }
 
-.assignment img {
+.assign img {
     width: 200px;
     margin: 10px;
     border: 2px solid #1B4F72;
@@ -27,7 +27,7 @@ body {
 }
 
 
-.assignment a:hover {
+.assign a:hover {
     color: #0d2332;
 }
 
