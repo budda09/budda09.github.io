@@ -39,9 +39,5 @@ a {
 
 h1 {
     color: #1B4F72;
+     text-align: center;
 }
-
-h1:hover {
- text-align: center;
- width: 100%;
- display: block;
