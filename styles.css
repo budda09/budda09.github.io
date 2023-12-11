@@ -41,7 +41,7 @@ h1 {
     color: #1B4F72;
 }
 
-title {
-    text-align: center;
-    color: #1B4F72;
-}
+h1:hover {
+ text-align: center;
+ width: 100%;
+ display: block;
